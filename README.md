@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliandevnguitar
 - 👀 I’m interested in music, art, web development, programming
-- 🌱 I’m currently learning C# on Microsoft Learning Plataform
+- 🌱 I’m currently learning C++ and JUCE framework
 - 💞️ I’m looking to collaborate on developers, UI/UX designers, 
 - 📫 How to reach me 
 - 😄 Pronouns: He
