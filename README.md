@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @juliandevnguitar
 - 👀 I’m interested in music, art, web development, programming
-- 🌱 I’m currently learning C++ and JUCE framework
-- 💞️ I’m looking to collaborate with developers and UI/UX designers, 
-- 📫 How to reach me 
+- 🌱 I’m currently developing an intelligent CRM with system one model workflows
+- 💞️ I’m looking to collaborate with developers and UI/UX designers, CEOs, founders. 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I´m also a professional musician
 
